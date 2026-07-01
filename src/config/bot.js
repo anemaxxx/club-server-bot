@@ -359,6 +359,10 @@ export const botConfig = {
   // WELCOME / GOODBYE MESSAGES
   // =========================
   welcome: {
+    embeds: {
+     colors: {
+       primary: "#B82CF2"
+       
     // Welcome template posted when a user joins.
     // Placeholders: {server}, {memberCount}
     defaultWelcomeMessage:
