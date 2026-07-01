@@ -66,9 +66,9 @@ export const botConfig = {
 
     // Embed colors by application status.
     statusColors: {
-      pending: "#FFA500",
-      approved: "#00FF00",
-      denied: "#FF0000",
+      pending: "#B82CF2",
+      approved: "#B82CF2",
+      denied: "#B82CF2",
     },
 
     // How long users must wait before submitting another application (hours).
@@ -101,17 +101,17 @@ export const botConfig = {
       info: "#B82CF2",
 
       // Neutral utility colors.
-      light: "#FFFFFF",
-      dark: "#202225",
-      gray: "#99AAB5",
+      light: "#B82CF2",
+      dark: "#B82CF2",
+      gray: "#B82CF2",
 
       // Discord-style palette shortcuts.
-      blurple: "#5865F2",
-      green: "#57F287",
-      yellow: "#FEE75C",
-      fuchsia: "#EB459E",
-      red: "#ED4245",
-      black: "#000000",
+      blurple: "#B82CF2",
+      green: "#B82CF2",
+      yellow: "#B82CF2",
+      fuchsia: "#B82CF2",
+      red: "#B82CF2",
+      black: "#B82CF2",
 
       // Feature-specific colors.
       giveaway: {
