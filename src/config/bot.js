@@ -139,7 +139,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "club naam",
       // Footer icon URL (null = no icon).
       icon: null,
     },
@@ -361,7 +361,7 @@ export const botConfig = {
   welcome: {
        
     // Welcome template posted when a user joins.
-    // Placeholders: {server}, {memberCount}
+   
     defaultWelcomeMessage:
       "Welcome {user} to {server}! We now have {memberCount} members!",
     // Goodbye template posted when a user leaves.
